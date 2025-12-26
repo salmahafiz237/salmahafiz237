@@ -1,7 +1,7 @@
-<img align="right" alt="Salma Image" src="readmesalma.png">
+<img align="right" alt="Salma  width=800 Image" src="readmesalma.png">
 <h1 align="center">Hi, I'm Salma Mohamed 👋</h1>
 <h3 align="center">Front-End Developer</h3>
-<img align="right" alt="Coding" src="https://brandonchan.ca/images/posts/nightcoding/nightcodingcolor.gif">
+<img align="right" alt="Coding" width=800 src="https://brandonchan.ca/images/posts/nightcoding/nightcodingcolor.gif">
 
 - 🌱 I’m currently learning **Angular, TypeScript, and modern frontend tools**
 
