@@ -1,3 +1,4 @@
+![Header](github-header-image.png)
 <h1 align="center">Hi, I'm Salma Mohamed 👋</h1>
 <h3 align="center">Front-End Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://brandonchan.ca/images/posts/nightcoding/nightcodingcolor.gif">
